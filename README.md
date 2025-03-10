@@ -14,7 +14,7 @@ A desktop application to fetch IP geolocation data (country, city, coordinates) 
 
 ## 🚀 Usage  
 ### For EXE Users:  
-1. Download `IPlocator.exe` from [Releases](https://github.com/your-repo/releases).  
+1. Download `IPlocator.exe` 
 2. Run the EXE (Windows 10/11).  
 
 ### For Python Users:  
