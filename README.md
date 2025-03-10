@@ -22,5 +22,5 @@ A desktop application to fetch IP geolocation data (country, city, coordinates) 
    ```bash  
    git clone https://github.com/your-repo/IPlocator.git
 *there is also a python file.*
-**important:
+**IMPORTANT:
 The address definition may contain inaccuracies, the address is determined by the nearest cell tower.**
